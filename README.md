@@ -1,6 +1,4 @@
 # DGA1032
-Wireless Communications and Computer Networking
-
 My personal notes on solutions of the books in my DGA1032 (Wireless Communications and Top Down Computer Networking)
 
 (The solutions can be found online, but they are sometimes not clear and detailed (especially the solution for the WC book), so I made my personal notes on them)
